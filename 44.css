@@ -1,0 +1,47 @@
+*{margin: 0;
+padding:0;}
+
+
+
+.one{
+	border: 1px solid #999;
+	background-color: #eee;
+	padding: 20px;
+	margin: 20px;
+	overflow: auto;
+	
+    }
+
+img{width: 80px}
+
+.left{border: 1px solid #999;
+	  float: left;
+      width: 200px;
+      background: #fff;
+      padding: 20px
+     }
+.left img{float:left;}
+
+.left p{
+	margin:30px;
+	text-align: right;
+	font-weight: bold;
+}
+
+.right{float: right;
+border: 1px solid #999;
+background-color: #fff;
+width: 120px;
+
+}
+
+.right img{padding:15px 20px;}
+
+.middle{border: 1px solid #999;
+        background-color: #fff;
+        height: 100%;/*最重要的是把div放最后面*/
+      padding: 20px;
+  margin-left: 260px;
+  margin-right: 140px;
+
+}
