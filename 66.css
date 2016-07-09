@@ -1,0 +1,455 @@
+*{
+	padding: 0;
+	margin: 0;
+	clear: both;
+}
+
+body{
+	background-color: #ccc;
+	margin: 0px 120px;
+
+
+}
+
+.all{
+	background-color: #fff;
+	width: 980px;
+	height: 1386px;
+	padding-left: 60px;
+}
+
+.a{
+	height: 61px;
+	width: 110px;
+	background-color: #d45d5c;
+	color: #fff;
+    font-size: 10px;
+    display: inline-block;
+}
+
+.one span{
+	color: #d45d5c;
+	float: right;
+	padding-top: 45px;
+	padding-right: 10px;
+	font-size: 12px;
+
+}
+.one p{
+	padding-left: 10px;
+	padding-top: 45px;
+	font-size: 12px;
+	
+}
+
+.one{
+	border-bottom: 2px solid #938e8c;
+
+	width: 892px;
+   font-family: "simhei";
+}
+
+.two img{
+	width: 641px;
+	height: 301px;
+	margin-top: 30px;
+}
+.two{
+	display: inline-block;
+
+}
+.red{
+
+	background-color: red;
+	width: 191px;
+	height: 301px;
+	opacity: 0.3;
+	position: absolute;
+	bottom: 311px;
+	left: 630px;
+}
+
+.green{
+	background-color: yellow;
+	width: 191px;
+	height: 301px;
+	opacity: 0.3;
+	position: absolute;
+	bottom: 311px;
+	
+
+}
+.three{
+	position: absolute;
+	left: 861px;
+	bottom: 299px;
+	width: 203px;
+	border-top: 2px solid #cc8091
+}
+
+.three h1{
+	
+	font-family: "微软雅黑";
+	font-size: 24px;
+	text-decoration: underline;
+	line-height: 40px;
+	font-variant:small-caps;
+	text-transform: capitalize;
+}
+
+.three .kai{
+	font-size: 12px;
+	color: #676767;
+	font-family: "楷体";
+	line-height: 10px;
+	font-style: italic;
+
+
+}
+
+.three .sevenh{
+	padding-top: 40px;
+	font-size: 116px;
+	color: #75b86b;
+	font-family: "微软雅黑";
+	font-style: italic;
+}
+
+.three .aaaa{
+	font-family: "微软雅黑";
+	color: #cc8091;
+	font-size: 55px;
+	padding-left: 20px;
+}
+.three .aa{
+	position: absolute;
+	bottom: 15px;
+	font-family: "微软雅黑";
+	color: #cc8091;
+	font-size: 21px;
+	
+}
+
+.three .aaa{
+	font-family: "微软雅黑";
+	color: #ccc;
+	font-size: 12px;
+
+}
+
+
+.what,
+.when,
+.how{
+	display: inline-block;
+	width: 200px;
+	margin-right: 16px;
+	margin-top: 30px;
+	font-family: "微软雅黑";
+}
+
+.what span{
+	font-size: 16px;
+	color: #418c59;
+	text-decoration: underline;	
+	font-weight: bolder;
+}
+
+.when span{
+	font-size: 16px;
+	color: #d2994f;
+	text-decoration: underline;
+	font-weight: bolder;
+}
+
+.how span{
+		font-size: 16px;
+	color: #cc7680;
+	text-decoration: underline;
+	font-weight: bolder;
+}
+
+.what p,.when p,.how p{
+	font-size: 12px;
+	line-height: 16px;
+	padding-top: 10px;
+	opacity: 0.7;
+}
+
+.how li{
+	list-style: none;
+
+}
+.how{
+	position: absolute;
+	bottom: 112px;
+	padding-left: 10px;
+}
+.how ul{
+	padding-top: 45px;
+	padding-left: 5px;
+
+}
+
+
+.how .p{
+	color: #cd4a48;
+	font-size: 12px;
+	opacity: 0.7;
+	text-decoration: none;
+	font-style: italic;
+}
+
+
+
+
+.oo{
+	display: inline;
+	font-size: 12px;
+	opacity: 0.7;
+}
+
+.wow{
+	font-family: "simhei";
+	border-bottom: 2px solid #11456b;
+	width: 415px;
+	padding-top: 70px;
+
+}
+
+
+.wow .uuu{
+	font-family: "simhei";
+	font-size: 42px;
+	color: #11456b;
+	font-weight: bolder;
+	padding-left: 20px;
+	}
+
+.wow .u{
+	font-size: 72px;
+	color: #f5e327;
+	font-family: "simhei";
+	font-weight: bolder;
+	font-style: italic;
+
+}
+
+.wow .uu{
+	font-size: 33px;
+	color: #11456b;
+	font-family: "simhei";
+	font-weight: bolder;
+}
+
+
+.left{
+	width: 415px;
+	display: inline-block;
+	padding-top: 20px;
+
+}
+
+.left p{
+	font-family: "宋体";
+	font-size: 12px;
+	color: #767777;
+	line-height: 16px;
+	display: inline;
+
+
+
+}
+
+.left span{
+	font-family: "Microsoft Yahei";
+	font-size: 70px;
+	color: #f5e327;
+
+}
+
+.left img{
+	width: 130px;
+	height: 230px;
+
+
+
+}
+
+
+.righttop img{
+	width: 458px;
+	height: 275px;
+	margin-top: 10px;
+	position: absolute;
+	right: 210px;
+	top: 660px;
+
+}
+
+.grey{
+	background-color: black;
+	opacity: 0.3;
+	width: 458px;
+	height: 61px; 
+	position: relative;
+	left: 432px;
+	bottom: 435px
+}
+
+.shu{
+	border-left: 3px solid #72b16a;
+	color: #ffffff;
+	font-family: "微软雅黑";
+	font-size: 26px;
+	padding-left: 50px;
+	position: absolute;
+	bottom: -240px;
+	left: 652px;
+	height: 44px;
+	padding-top: 15px;
+}
+
+.lv{
+     font-size: 12px;
+     color: #72b16a;
+     font-style: italic;
+     word-spacing: 140%;
+   position: absolute;
+   top: 910px;
+   right: 370px;
+
+}
+
+.rightdown{
+	width: 459px;
+	height: 318px;
+	background-color: #e7f5ef;
+	position: absolute;
+	right: 210px;
+	bottom: -600px;
+	line-height: 20px;
+
+}
+
+.rightdown ul{
+	list-style-image: url("https://github.com/yuanguangxin/Baidu_ife/blob/master/mission1_6/img/triangle.png?raw=true");
+	font-size: 16px;
+    margin-left: 30px;
+    margin-top: 30px;
+    text-align: left;
+    color: #5a5b5b
+}
+
+
+.rightdown li{
+	margin: 20px;
+
+}
+
+
+.rightdown span{
+	font-size: 12px;
+	font-family: "宋体";
+	font-style: italic;
+	color: #5a5b5b;
+}
+
+
+
+.th{
+	background-color: #d45d5c;
+	width: 260px;
+	height: 160px;
+	position: relative;
+	left: 430px;
+	bottom: 235px;
+
+
+	
+}
+
+.th span{
+	color: #fff;
+	font-family: "微软雅黑";
+	font-size: 110px;
+	border-right: 2px solid;
+	height: 86px;
+	position: relative;
+	top: 25px;
+
+
+}
+.th .qq{
+	font-size: 21px;
+	color: #fff;
+	font-family: "simhei";
+	margin: 24px;
+	font-style: italic;
+	position: relative;
+	left: 45px;
+	bottom: 80px;
+}
+.th .qqq{
+	font-family: "simhei";
+	font-size: 12px;
+	margin: 6px;
+	color: #fff;
+	position: relative;
+	left: 65px;
+	bottom: 100px;
+}
+
+.fu{
+	color: #5a5b5b;
+	font-family: "simhei";
+	font-style: italic;
+	margin: 16px;
+	font-size: 14px;
+	width: 160px;
+	height: 60px;
+	position: absolute;
+	bottom: -530px;
+	right: 200px;
+}
+
+.fu span{
+	font-size: 72px;
+	color: #d45d5c;
+	font-family: "simhei";
+   font-style: normal;   
+}
+
+p .po{
+	position: absolute;
+	right: 150px;
+	bottom: 15px;
+
+
+}
+
+p .op{
+	position: absolute;
+	right: -50px;
+}
+
+.uh{
+	float: right;
+    margin: 12px 0px 12px 0px;
+
+	
+}
+.yah{
+	position: relative;
+	bottom: 200px;
+
+	border-top: 1px solid #938e8c;
+	width: 892px;
+}
+.yeh p{
+font-size: 12px;
+color: #d45d5c;
+position: relative;
+left: 800px;
+
+}
